@@ -1,2 +1,8 @@
 # Resume
-# 박상돈 Front-end 개발
+
+##소개
+
+* 이름 : 박상돈
+* Email : psdkei@naver.com / sangdonidoni@gmail.com
+* Github : <github.com/ddoniddoni>
+
