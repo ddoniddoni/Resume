@@ -41,10 +41,10 @@
   - 조회수 추가
   - Flash Message 알림
   
-  * ### [KakaoTalk 클론](https://github.com/ddoniddoni/kakao-clone-v2)
+* ### [KakaoTalk 클론](https://github.com/ddoniddoni/kakao-clone-v2)
   
-    Html과 Css를 이용한 카카오톡 클론
-    
-    확인할 수 있는 주소 : https://ddoniddoni.github.io/kakao-clone-v2/
+  Html과 Css를 이용한 카카오톡 클론
+
+  확인할 수 있는 주소 : https://ddoniddoni.github.io/kakao-clone-v2/
   
   
